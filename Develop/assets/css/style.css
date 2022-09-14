@@ -86,6 +86,13 @@ p {
     background-color: #2589bd;
 }
 
+.benefit-title {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* Optimized this section of code and put the CSS stylings under '.benefit-title' above.
+
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -99,7 +106,14 @@ p {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
+} */
+
+.benefit-title h3 {
+    margin-bottom: 10px;
+    text-align: center;
 }
+
+/* Optimized this section of code and put the CSS stylings under '.benefit-title h3' above.
 
 .benefit-lead h3 {
     margin-bottom: 10px;
@@ -113,8 +127,16 @@ p {
 
 .benefit-cost h3 {
     margin-bottom: 10px;
-    text-align: center;
+    text-align: center; 
+} */
+
+.benefit-title img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
+
+/* Optimized this section of code and put the CSS stylings under '.benefit-title img' above.
 
 .benefit-lead img {
     display: block;
@@ -132,7 +154,18 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+} */
+
+.company-feature {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
 }
+
+/* Optimized this section of code and put the CSS stylings under '.company-feature' above.
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -159,7 +192,13 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+} */
+
+.company-feature img {
+    max-height: 200px;
 }
+
+/* Optimized this section of code and put the CSS stylings under '.company-feature img' above. 
 
 .search-engine-optimization img {
     max-height: 200px;
@@ -171,7 +210,14 @@ p {
 
 .social-media-marketing img {
     max-height: 200px;
+} */
+
+.company-feature h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
+
+/* Optimized this section of code and put the CSS stylings under '.company-feature h2' above. 
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
@@ -186,7 +232,7 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 .footer {
     padding: 30px;
