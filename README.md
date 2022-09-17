@@ -1,5 +1,7 @@
 # Module 01 Challenge
 
+Seth Daulton
+
 ## Description
 
 For this challenge assignment, I was tasked with adjusting the provided starter code to make it more accessible and optimized. 
@@ -16,15 +18,15 @@ The webpage is more easily read by users of the site and developers alike.
 
 ## Screenshot
 
-Below is a screenshot of the web page that I was working on for this challenge assignment.
+Below is a screenshot of the web page that I was working on for this challenge assignment:
  
 ![alt text](assets/01-html-css-git-homework-demo.png)
     
 ## Link to deployed page
 
-Below is a link to the live site:
+Below is a link to the live Module 01 Challenge site:
 
-
+https://sethdaulton.github.io/Module-01-Challenge/
 
 ## License
 
